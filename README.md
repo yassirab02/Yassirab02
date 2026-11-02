@@ -7,13 +7,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems.;Java+%26+Spring+Boot+%7C+Backend+Engineering;React+%26+Next.js+%7C+Modern+Web+Development;Cloud+%26+DevOps+%7C+From+Code+to+Production." alt="Typing SVG"/>
 
 <p>
-  <a href="https://github.com/yassirab02" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/yassirab02">
     <img src="https://img.shields.io/badge/GitHub-yassirab02-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/yassirabourial" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/yassirabourial">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://gradia.network" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:yassirabourial86@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://gradia.network">
     <img src="https://img.shields.io/badge/Founder-Gradia-16233D?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Gradia"/>
   </a>
 </p>
@@ -65,7 +68,7 @@ Currently, I'm putting that mindset into my biggest project yet.
 
 <div align="center">
 
-<a href="https://gradia.network" target="_blank" rel="noopener noreferrer">
+<a href="https://gradia.network">
   <img src="https://img.shields.io/badge/GRADIA-16233D?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Gradia"/>
 </a>
 
@@ -98,7 +101,7 @@ An exam-preparation platform built to transform how Moroccan university students
 - Manage infrastructure, deployment, security, and production maintenance.
 
 <div align="center">
-  <a href="https://gradia.network" target="_blank" rel="noopener noreferrer">
+  <a href="https://gradia.network">
     <img src="https://img.shields.io/badge/Explore_Gradia-Visit_Platform-16233D?style=for-the-badge" alt="Explore Gradia"/>
   </a>
 </div>
@@ -199,11 +202,11 @@ An exam-preparation platform built to transform how Moroccan university students
 
 <div align="center">
 
-<a href="https://github.com/yassirab02" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/yassirab02">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=yassirab02&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 </a>
 
-<a href="https://github.com/yassirab02" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/yassirab02">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirab02&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </a>
 
@@ -244,15 +247,23 @@ Always interested in ambitious products, interesting engineering challenges, and
 
 <br/>
 
-<a href="https://linkedin.com/in/yassirabourial" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/yassirabourial">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="https://gradia.network" target="_blank" rel="noopener noreferrer">
+<a href="mailto:yassirabourial86@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send_Me_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://gradia.network">
   <img src="https://img.shields.io/badge/Gradia-Explore_the_Product-16233D?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Gradia"/>
 </a>
 
 <br/><br/>
+
+📧 **yassirabourial86@gmail.com**
+
+<br/>
 
 <sub>Designed with curiosity. Built with ownership. Driven by engineering. 🚀</sub>
 
