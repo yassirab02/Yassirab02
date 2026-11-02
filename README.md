@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Yassir 👋
 
-<!--
-**yassirab02/Yassirab02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer from Marrakech, Morocco — **Java/Spring Boot** on the backend, **Angular/React/Next.js** on the frontend.
 
-Here are some ideas to get you started:
+🎓 **Founder of [Gradia](https://gradia.network)** — an exam-prep platform for Moroccan university students that I built and run solo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I've done:**
+- Led the dev team at LANAI / Simplify Software (Java + Angular) — exhibited at GITEX Africa 2025
+- Built Spring Boot microservices with Spring Security, Docker & CI/CD at Zynerator
+- Shipped a Laravel + React catering platform at SAADI Traiteur
+
+**Tech I reach for:** Java • Spring Boot • TypeScript • React • Next.js • PostgreSQL • Docker
+
+📫 [LinkedIn](https://linkedin.com/in/yassirabourial) • 🌍 [gradia.network](https://gradia.network)
