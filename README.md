@@ -7,9 +7,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems.;Java+%26+Spring+Boot+%7C+Backend+Engineering;React+%26+Next.js+%7C+Modern+Web+Development;Cloud+%26+DevOps+%7C+From+Code+to+Production." alt="Typing SVG"/>
 
 <p>
-<a href="https://github.com/yassirab02"><img src="https://img.shields.io/badge/GitHub-yassirab02-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/yassirabourial"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://gradia.network"><img src="https://img.shields.io/badge/Founder-Gradia-16233D?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Gradia"/></a>
+  <a href="https://github.com/yassirab02" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-yassirab02-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/yassirabourial" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://gradia.network" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Founder-Gradia-16233D?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Gradia"/>
+  </a>
 </p>
 
 📍 Marrakech, Morocco 🇲🇦
@@ -59,8 +65,8 @@ Currently, I'm putting that mindset into my biggest project yet.
 
 <div align="center">
 
-<a href="https://gradia.network">
-<img src="https://img.shields.io/badge/GRADIA-16233D?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Gradia"/>
+<a href="https://gradia.network" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GRADIA-16233D?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Gradia"/>
 </a>
 
 ### 🎓 GRADIA — Learn smarter. Progress further.
@@ -92,9 +98,9 @@ An exam-preparation platform built to transform how Moroccan university students
 - Manage infrastructure, deployment, security, and production maintenance.
 
 <div align="center">
-<a href="https://gradia.network">
-<img src="https://img.shields.io/badge/Explore_Gradia-Visit_Platform-16233D?style=for-the-badge" alt="Explore Gradia"/>
-</a>
+  <a href="https://gradia.network" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Explore_Gradia-Visit_Platform-16233D?style=for-the-badge" alt="Explore Gradia"/>
+  </a>
 </div>
 
 ---
@@ -103,6 +109,7 @@ An exam-preparation platform built to transform how Moroccan university students
 
 <details open>
 <summary><b>LANAI / Simplify Software</b> — Development Team Lead</summary>
+
 <br/>
 
 - Led a development team working with Java and Angular.
@@ -113,6 +120,7 @@ An exam-preparation platform built to transform how Moroccan university students
 
 <details>
 <summary><b>Zynerator</b> — Backend Developer</summary>
+
 <br/>
 
 - Developed backend solutions using Java and Spring Boot.
@@ -123,6 +131,7 @@ An exam-preparation platform built to transform how Moroccan university students
 
 <details>
 <summary><b>SAADI Traiteur</b> — Full-Stack Developer</summary>
+
 <br/>
 
 - Developed and shipped a catering platform.
@@ -142,10 +151,10 @@ An exam-preparation platform built to transform how Moroccan university students
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,laravel,maven" alt="Backend technologies"/>
 
 <p>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat-square" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
 </p>
 
 ### 🎨 Frontend Development
@@ -157,8 +166,8 @@ An exam-preparation platform built to transform how Moroccan university students
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Database technologies"/>
 
 <p>
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO"/>
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway"/>
 </p>
 
 ### ☁️ Cloud, DevOps & Infrastructure
@@ -166,9 +175,9 @@ An exam-preparation platform built to transform how Moroccan university students
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,cloudflare,githubactions" alt="Cloud and DevOps technologies"/>
 
 <p>
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MinIO-Storage-C72E49?style=flat-square&logo=minio&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Cloud_Infrastructure-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
 ### 🔧 Tools & Developer Workflow
@@ -176,10 +185,10 @@ An exam-preparation platform built to transform how Moroccan university students
 <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,postman,figma" alt="Developer tools"/>
 
 <p>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend"/>
+  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google OAuth"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
 </div>
@@ -190,12 +199,12 @@ An exam-preparation platform built to transform how Moroccan university students
 
 <div align="center">
 
-<a href="https://github.com/yassirab02">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yassirab02&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<a href="https://github.com/yassirab02" target="_blank" rel="noopener noreferrer">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yassirab02&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 </a>
 
-<a href="https://github.com/yassirab02">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirab02&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+<a href="https://github.com/yassirab02" target="_blank" rel="noopener noreferrer">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirab02&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </a>
 
 <br/>
@@ -235,12 +244,12 @@ Always interested in ambitious products, interesting engineering challenges, and
 
 <br/>
 
-<a href="https://linkedin.com/in/yassirabourial">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/yassirabourial" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="https://gradia.network">
-<img src="https://img.shields.io/badge/Gradia-Explore_the_Product-16233D?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Gradia"/>
+<a href="https://gradia.network" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gradia-Explore_the_Product-16233D?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Gradia"/>
 </a>
 
 <br/><br/>
